@@ -1,0 +1,27 @@
+html {
+	overflow-x: hidden;
+
+}
+
+.leftside, .rightside {
+	height:100vh;
+	width: 100%;
+	
+}
+
+.leftside {
+	background-color: aqua;
+	color: white;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.rightside {
+	background-color: white;
+
+}
+
+img {
+	width: 300px
+
+}
